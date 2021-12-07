@@ -1,6 +1,8 @@
 # Luiz Eduardo
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Eduardo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-eduardo-miranda-e-silva-507814220/)](https://www.linkedin.com/in/luiz-eduardo-miranda-e-silva-507814220) 
+  <a href="https://www.linkedin.com/in/luiz-eduardo-miranda-e-silva-507814220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/luiz_dudums" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
 - 📚 I’m currently studying Computer Information Systems
 - 📩 How to reach me: Anywhere you find me, can send-me a message, I preffer Linked In and the e-mail: luizdudy317@gmail.com
