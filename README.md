@@ -1,4 +1,4 @@
-<h1 align="center"> 🎆Oiee! Bem-vindos!</h1>
+<h1 align="center">💻 Bem-vindos!</h1>
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Silvams-rg&repo=juliaeduarda-rg&countColorcountColor)
 
